@@ -1,3 +1,4 @@
 # micrograd notes
 
 ## Confusions
+
