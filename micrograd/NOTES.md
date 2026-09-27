@@ -1,6 +1,0 @@
-# micrograd notes
-
-## Confusions
-
-
-
